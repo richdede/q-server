@@ -1,0 +1,285 @@
+[
+  {
+    "name": "Construction materials",
+    "group": "Manufacturing"
+  },
+  {
+    "name": "Electronics and Optics",
+    "group": "Manufacturing"
+  },
+  {
+    "name": "Food and Beverage",
+    "group": "Manufacturing"
+  },
+  {
+    "name": "Bakery & confectionery products",
+    "group": "Manufacturing"
+  },
+  {
+    "name": "Beverages",
+    "group": "Manufacturing"
+  },
+  {
+    "name": "Fish & fish products",
+    "group": "Manufacturing"
+  },
+  {
+    "name": "Milk & dairy products",
+    "group": "Manufacturing"
+  },
+  {
+    "name": "Meat & meat products",
+    "group": "Manufacturing"
+  },
+  {
+    "name": "Other",
+    "group": "Manufacturing"
+  },
+  {
+    "name": "Sweets & snack food",
+    "group": "Manufacturing"
+  },
+  {
+    "name": "Bathroom/sauna",
+    "group": "Furniture"
+  },
+  {
+    "name": "Bedroom",
+    "group": "Furniture"
+  },
+  {
+    "name": "Children’s room",
+    "group": "Furniture"
+  },
+  {
+    "name": "Kitchen",
+    "group": "Furniture"
+  },
+  {
+    "name": "Living room",
+    "group": "Furniture"
+  },
+  {
+    "name": "Office",
+    "group": "Furniture"
+  },
+  {
+    "name": "Other (Furniture)",
+    "group": "Furniture"
+  },
+  {
+    "name": "Outdoor",
+    "group": "Furniture"
+  },
+  {
+    "name": "Project furniture",
+    "group": "Furniture"
+  },
+  {
+    "name": "Machinery components",
+    "group": "Machinery"
+  },
+  {
+    "name": "Machinery equipment/tools",
+    "group": "Machinery"
+  },
+  {
+    "name": "Manufacture of machinery",
+    "group": "Machinery"
+  },
+  {
+    "name": "Maritime",
+    "group": "Machinery"
+  },
+  {
+    "name": "Aluminum and steel workboats",
+    "group": "Machinery"
+  },
+  {
+    "name": "Boat/Yacht building",
+    "group": "Machinery"
+  },
+  {
+    "name": "Ship repair and conversion",
+    "group": "Machinery"
+  },
+  {
+    "name": "Metal structures",
+    "group": "Machinery"
+  },
+  {
+    "name": "Other",
+    "group": "Machinery"
+  },
+  {
+    "name": "Repair and maintenance service",
+    "group": "Machinery"
+  },
+  {
+    "name": "Construction of metal structures",
+    "group": "Metalworking"
+  },
+
+  {
+    "name": "Houses and buildings",
+    "group": "Metalworking"
+  },
+
+  {
+    "name": "Metal products",
+    "group": "Metalworking"
+  },
+
+  {
+    "name": "Metal works",
+    "group": "Metalworking"
+  },
+
+  {
+    "name": "CNC-machining",
+    "group": "Metalworking"
+  },
+  {
+    "name": "Forgings, Fasteners",
+    "group": "Metalworking"
+  },
+  {
+    "name": ">Gas, Plasma, Laser cutting",
+    "group": "Metalworking"
+  },
+  {
+    "name": "MIG, TIG, Aluminum welding",
+    "group": "Metalworking"
+  },
+
+  {
+    "name": "Packaging",
+    "group": "Plastic and Rubber"
+  },
+  {
+    "name": "Plastic goods",
+    "group": "Plastic and Rubber"
+  },
+  {
+    "name": "Plastic processing technology",
+    "group": "Plastic and Rubber"
+  },
+  {
+    "name": "Blowing",
+    "group": "Plastic and Rubber"
+  },
+  {
+    "name": "Moulding",
+    "group": "Plastic and Rubber"
+  },
+  {
+    "name": "Plastics welding and processing",
+    "group": "Plastic and Rubber"
+  },
+  {
+    "name": "Plastic profiles",
+    "group": "Plastic and Rubber"
+  },
+  {
+    "name": "Advertising",
+    "group": "Printing"
+  },
+
+  {
+    "name": "Book/Periodicals printing",
+    "group": "Printing"
+  },
+
+  {
+    "name": "Labelling and packaging printing",
+    "group": "Printing"
+  },
+  {
+    "name": "Textile and Clothing",
+    "group": "Printing"
+  },
+  {
+    "name": "Clothing",
+    "group": "Printing"
+  },
+  {
+    "name": "Textile",
+    "group": "Printing"
+  },
+  {
+    "name": "Other (Wood)",
+    "group": "Wood"
+  },
+  {
+    "name": "Wooden building materials",
+    "group": "Wood"
+  },
+  {
+    "name": "Wooden houses",
+    "group": "Wood"
+  },
+  {
+    "name": "Creative industries",
+    "group": "Other"
+  },
+  {
+    "name": "Energy technology",
+    "group": "Other"
+  },
+  {
+    "name": "Environment",
+    "group": "Other"
+  },
+  {
+    "name": "Business services",
+    "group": "Service"
+  },
+  {
+    "name": "Engineering",
+    "group": "Service"
+  },
+  {
+    "name": "Information Technology and Telecommunications",
+    "group": "Service"
+  },
+  {
+    "name": "Data processing, Web portals, E-marketing",
+    "group": "Service"
+  },
+  {
+    "name": "Programming, Consultancy",
+    "group": "Service"
+  },
+  {
+    "name": "Software, Hardware",
+    "group": "Service"
+  },
+  {
+    "name": "Telecommunications",
+    "group": "Service"
+  },
+  {
+    "name": "Translation services",
+    "group": "Tourism"
+  },
+  {
+    "name": "Transport and Logistics",
+    "group": "Tourism"
+  },
+  {
+    "name": "Air",
+    "group": "Tourism"
+  },
+  {
+    "name": "Rail",
+    "group": "Tourism"
+  },
+  {
+    "name": "Road",
+    "group": "Tourism"
+  },
+  {
+    "name": "Water",
+    "group": "Tourism"
+  }
+]
